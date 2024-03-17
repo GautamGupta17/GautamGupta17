@@ -22,7 +22,7 @@ Hi, my name is Gautam Gupta 😄 and I am currently pursuing a B.Tech degree in 
 <br><br>
 I am excited about the potential for data science and AI to improve and transform industries, and I am dedicated to continuing my learning and growth in these fields. In my free time, I am also exploring devops as a way to further enhance my skillset. Thank you for visiting my profile. Please don't hesitate to reach out if you have any questions or projects you'd like to discuss! 
 
-![](https://komarev.com/ghpvc/?username=adityagoel28)
+![](https://komarev.com/ghpvc/?username=GautamGupta17)
 ## ✉️ Find me on:
 
 <p align="center">
@@ -50,7 +50,7 @@ I am excited about the potential for data science and AI to improve and transfor
 <p align="center">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" height="60" style="vertical-   align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="60" style="vertical-align:top; margin:4px">
-<!--  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/threejs/threejs.png" alt="Three js" height="60" style="vertical-align:top; margin:4px"> -->
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/threejs/threejs.png" alt="Three js" height="60" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind" height="60" style="vertical-align:top; margin:4px">
 </p>
 
@@ -60,12 +60,12 @@ I am excited about the potential for data science and AI to improve and transfor
 <br />
 
 <p float="left">
-<!--  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityagoel28&show_icons=true&theme=tokyonight)  -->
+<!--  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GautamGupta17&show_icons=true&theme=tokyonight)  -->
 <!--  ![image](https://leetcode-stats-api.herokuapp.com/WhyGautam17/theme=dark) -->
 
- <img src="https://github-readme-stats-lzzgs.vercel.app/api?username=adityagoel28&show_icons=true&theme=tokyonight" />
+ <img src="https://github-readme-stats-lzzgs.vercel.app/api?username=GautamGupta17&show_icons=true&theme=tokyonight" />
 
  <img src="https://leetcard.jacoblin.cool/WhyGautam17?theme=dark" />
 </p>
 
-![Top Langs](https://github-readme-stats-lzzgs.vercel.app/api/top-langs/?username=adityagoel28&theme=tokyonight)
+![Top Langs](https://github-readme-stats-lzzgs.vercel.app/api/top-langs/?username=GautamGupta17&theme=tokyonight)
