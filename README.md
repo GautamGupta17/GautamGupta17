@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 
 
-![](https://github.com/deveshXm/deveshXm/blob/main/banner.png)
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I%20am%20Devesh&fontSize=60&fontAlign=50&fontAlignY=40&color=050927&fontColor=c0e4e4)
+![](https://github.com/GautamGupta17/GautamGupta17/banner.png)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I%20am%20Gautam&fontSize=60&fontAlign=50&fontAlignY=40&color=050927&fontColor=c0e4e4)
 
 <div align="center">
 
