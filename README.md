@@ -33,9 +33,9 @@ I am excited about the potential for data science and AI to improve and transfor
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://www.linkedin.com/in/aditya-goel-2803/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/adityagoel28/adityagoel28/assets/67872867/91aead83-d5b5-4fcc-b53c-878c1b942a3e" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px;"></a> &nbsp;&nbsp;
- <a href="mailto:adityagoel2002@gmail.com"> <img src="https://github.com/adityagoel28/adityagoel28/assets/67872867/7549da4a-74f6-4c99-81f8-bb7a8b6e8ef1" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;
- <a href="https://www.adityagoel.dev" target="_blank"> <img src="https://github.com/adityagoel28/adityagoel28/assets/67872867/7e40da2a-eaa7-4dcc-936c-b01b9e7f5969" alt="Portfolio" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="www.linkedin.com/in/gautam-gupta-906976261/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/adityagoel28/adityagoel28/assets/67872867/91aead83-d5b5-4fcc-b53c-878c1b942a3e" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px;"></a> &nbsp;&nbsp;
+ <a href="mailto:gautamgupta1714@gmail.com"> <img src="https://github.com/adityagoel28/adityagoel28/assets/67872867/7549da4a-74f6-4c99-81f8-bb7a8b6e8ef1" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;
+ <a href="https://gautam-gupta-portfolio.vercel.app/" target="_blank"> <img src="https://github.com/adityagoel28/adityagoel28/assets/67872867/7e40da2a-eaa7-4dcc-936c-b01b9e7f5969" alt="Portfolio" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
